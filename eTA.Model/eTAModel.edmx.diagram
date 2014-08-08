@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="258d242f0bf64bcf99dfc27a37b8735f" Name="Diagram1">
+        <EntityTypeShape EntityType="eTAModel.Adm_Cfg_AppParameter" Width="1.5" PointX="4.75" PointY="9.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="eTAModel.Adm_Cfg_CodeData" Width="1.5" PointX="19.75" PointY="6.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="eTAModel.Adm_Cfg_CodeType" Width="1.5" PointX="19.75" PointY="12.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="eTAModel.Adm_Cfg_Signatories" Width="1.5" PointX="19.75" PointY="18.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="eTAModel.Adm_Cfg_Workflow" Width="1.5" PointX="19.75" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="eTAModel.Adm_Cfg_WorkflowLine" Width="1.5" PointX="22" PointY="1.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="eTAModel.INT_ActiveLeave" Width="1.5" PointX="5.25" PointY="2.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="eTAModel.INT_Employee" Width="1.5" PointX="3" PointY="1.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="eTAModel.INT_JobTitle" Width="1.5" PointX="0.75" PointY="2.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="eTAModel.INT_Level1" Width="1.5" PointX="0.75" PointY="8.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="eTAModel.INT_Level2" Width="1.5" PointX="0.75" PointY="12.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="eTAModel.INT_Level3" Width="1.5" PointX="0.75" PointY="17.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="eTAModel.INT_Level4" Width="1.5" PointX="0.75" PointY="21.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="eTAModel.INT_PublicHoliday" Width="1.5" PointX="4.75" PointY="20.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="eTAModel.INT_TaskCode" Width="1.5" PointX="0.75" PointY="26.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="eTAModel.SYS_Forms" Width="1.5" PointX="14.75" PointY="20.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="eTAModel.SYS_Forms_Controls" Width="1.5" PointX="16.75" PointY="20.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="eTAModel.Sys_Language" Width="1.5" PointX="6.75" PointY="12.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="eTAModel.Sys_Licenses_AddOn" Width="1.5" PointX="21.75" PointY="5.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="eTAModel.Sys_Log_All" Width="1.5" PointX="21.75" PointY="10.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="eTAModel.Sys_Log_Error" Width="1.5" PointX="21.75" PointY="16.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="eTAModel.Sys_Log_Sessions" Width="1.5" PointX="21.75" PointY="21.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="eTAModel.Sys_Msg_Error" Width="1.5" PointX="23.75" PointY="5.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="eTAModel.Sys_Period" Width="1.5" PointX="23.75" PointY="11.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="eTAModel.Sys_Report" Width="1.5" PointX="23.75" PointY="16.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="eTAModel.Sys_ReportCategory" Width="1.5" PointX="16.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="eTAModel.SYS_ReportCriteria" Width="1.5" PointX="18.75" PointY="23.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="eTAModel.Sys_ReportCriteriaJoin" Width="1.5" PointX="16.75" PointY="8.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="eTAModel.Sys_ReportStyle" Width="1.5" PointX="23.75" PointY="22.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="eTAModel.Sys_Sec_Access" Width="1.5" PointX="5" PointY="16.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="eTAModel.Sys_Sec_Permissions" Width="1.5" PointX="5.75" PointY="29.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="eTAModel.Sys_Sec_PermissionsGranted" Width="1.5" PointX="8" PointY="21.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="eTAModel.Sys_Sec_User" Width="1.5" PointX="2.75" PointY="13.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="eTAModel.Sys_Sec_UserGroupings" Width="1.5" PointX="5" PointY="25.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="eTAModel.Sys_UI" Width="1.5" PointX="24.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="eTAModel.TA_SM_Cfg_ExceptionTypes" Width="1.5" PointX="14.75" PointY="13.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="eTAModel.TA_SM_Cfg_SystemDates" Width="1.5" PointX="10.75" PointY="23.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="eTAModel.TA_SM_Cfg_WeekDays" Width="1.5" PointX="10" PointY="15.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="eTAModel.TA_SM_Exceptions" Width="1.5" PointX="17" PointY="12.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="eTAModel.TA_SM_PunchLog" Width="1.5" PointX="12.75" PointY="24.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="eTAModel.TA_SM_Ramadan" Width="1.5" PointX="10" PointY="26.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="eTAModel.TA_SM_Shifts" Width="1.5" PointX="10" PointY="2.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="eTAModel.TA_SM_Shifts_Days" Width="1.5" PointX="12.25" PointY="3.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="eTAModel.TA_SM_Shifts_Days_Ramadan" Width="1.5" PointX="12.25" PointY="16.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="eTAModel.TA_SM_Shifts_Dept_Mapping" Width="1.5" PointX="12.25" PointY="11.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="eTAModel.TA_SM_Shifts_Employee_Mapping" Width="1.5" PointX="14.75" PointY="1.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="eTAModel.TA_SM_Shifts_Employee_Mapping_Line" Width="1.5" PointX="17" PointY="4.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="eTAModel.TA_SM_Transaction_Employee" Width="1.5" PointX="25.75" PointY="5.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="eTAModel.TA_TS_Cfg_AttendanceTypes" Width="1.5" PointX="7.75" PointY="5.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="eTAModel.TA_TS_Cfg_AttendanceTypesMapping" Width="1.5" PointX="10" PointY="11" IsExpanded="true" />
+        <EntityTypeShape EntityType="eTAModel.vw_TA_SM_Dashboard_EmpCount" Width="1.5" PointX="7.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="eTAModel.vw_TA_SM_Dashboard_LivePunch" Width="1.5" PointX="25.75" PointY="14.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="eTAModel.vw_TA_SM_Dashboard_PunchCount" Width="1.5" PointX="14.75" PointY="25.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="eTAModel.vwAdm_Cfg_Code_ApprovalDoc" Width="1.5" PointX="25.75" PointY="18.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="eTAModel.vwAdm_Cfg_Code_ApproverType" Width="1.5" PointX="20.75" PointY="25.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="eTAModel.vwAdm_Cfg_Code_AttendanceCategory" Width="1.5" PointX="25.75" PointY="23.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="eTAModel.vwAdm_Cfg_Code_AttendanceHrsOperation" Width="1.5" PointX="26.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="eTAModel.vwAdm_Cfg_Code_AttendanceMode" Width="1.5" PointX="27.75" PointY="5.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="eTAModel.vwAdm_Cfg_Code_AttendancePayOperation" Width="1.5" PointX="27.75" PointY="10.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="eTAModel.vwAdm_Cfg_Code_AttendancePayRate" Width="1.5" PointX="27.75" PointY="15.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="eTAModel.vwAdm_Cfg_Code_AttendanceType" Width="1.5" PointX="27.75" PointY="20.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="eTAModel.vwAdm_Cfg_Code_AttendanceTypeAllowUsers" Width="1.5" PointX="27.75" PointY="25.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="eTAModel.vwAdm_Cfg_Code_Operator" Width="1.5" PointX="28.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="eTAModel.VwAdm_Cfg_Code_PunchType" Width="1.5" PointX="12.75" PointY="28.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="eTAModel.vwAdm_Cfg_Code_SecAccess" Width="1.5" PointX="14.75" PointY="28.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="eTAModel.vwAdm_Cfg_Code_SecAccessModules" Width="1.5" PointX="22.75" PointY="28.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="eTAModel.vwAdm_Cfg_Code_SecAccessSubSection" Width="1.5" PointX="24.75" PointY="28.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="eTAModel.vwAdm_Cfg_Code_Sorting" Width="1.5" PointX="2.75" PointY="29.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="eTAModel.vwTA_TS_Cfg_AttendanceDays" Width="1.5" PointX="29.75" PointY="4.75" IsExpanded="true" />
+        <AssociationConnector Association="eTAModel.FK_Adm_Cfg_ApprovalLine_Adm_Cfg_Approval" ManuallyRouted="false" />
+        <AssociationConnector Association="eTAModel.FK_INT_ActiveLeave_INT_Employee" ManuallyRouted="false" />
+        <AssociationConnector Association="eTAModel.FK_INT_Employee_INT_JobTitle" ManuallyRouted="false" />
+        <AssociationConnector Association="eTAModel.FK_INT_Employee_INT_Level1" ManuallyRouted="false" />
+        <AssociationConnector Association="eTAModel.FK_INT_Employee_INT_Level2" ManuallyRouted="false" />
+        <AssociationConnector Association="eTAModel.FK_INT_Employee_INT_Level3" ManuallyRouted="false" />
+        <AssociationConnector Association="eTAModel.FK_INT_Employee_INT_Level4" ManuallyRouted="false" />
+        <AssociationConnector Association="eTAModel.FK_INT_Employee_INT_TaskCode" ManuallyRouted="false" />
+        <AssociationConnector Association="eTAModel.FK_Sys_Sec_Access_Sys_Sec_User" ManuallyRouted="false" />
+        <AssociationConnector Association="eTAModel.FK_Sys_Sec_PermissionsGranted_Sys_Sec_Permissions" ManuallyRouted="false" />
+        <AssociationConnector Association="eTAModel.FK_Sys_Sec_PermissionsGranted_Sys_Sec_User" ManuallyRouted="false" />
+        <AssociationConnector Association="eTAModel.FK_Sys_Sec_UserGroupings_Sys_Sec_User" ManuallyRouted="false" />
+        <AssociationConnector Association="eTAModel.FK_TA_SM_Exceptions_TA_SM_Cfg_ExceptionTypes" ManuallyRouted="false" />
+        <AssociationConnector Association="eTAModel.FK_TA_SM_Shifts_Days_Ramadan_TA_SM_Cfg_WeekDays" ManuallyRouted="false" />
+        <AssociationConnector Association="eTAModel.FK_TA_SM_Shifts_Days_TA_SM_Cfg_WeekDays" ManuallyRouted="false" />
+        <AssociationConnector Association="eTAModel.FK_TA_SM_Shifts_Days_Ramadan_TA_SM_Ramadan" ManuallyRouted="false" />
+        <AssociationConnector Association="eTAModel.FK_TA_SM_Shifts_Days_TA_SM_Shifts" ManuallyRouted="false" />
+        <AssociationConnector Association="eTAModel.FK_TA_SM_Shifts_Dept_Mapping_TA_SM_Shifts" ManuallyRouted="false" />
+        <AssociationConnector Association="eTAModel.FK_TA_SM_Shifts_TA_TS_Cfg_AttendanceTypes" ManuallyRouted="false" />
+        <AssociationConnector Association="eTAModel.FK_TA_SM_Shifts_Employee_Mapping_Line_TA_SM_Shifts_Employee_Mapping" ManuallyRouted="false" />
+        <AssociationConnector Association="eTAModel.FK_TA_TS_Cfg_AttendanceTypesMapping_TA_TS_Cfg_AttendanceTypes" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
